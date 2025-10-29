@@ -178,7 +178,7 @@ export default function Home() {
               Monash University — Integrated Masters of Computer Science
             </h3>
             <p className="text-xs text-[#6b6b6b] mb-2">
-              2021 – 2024 · First Class Honours
+              2023 – 2024 · First Class Honours
             </p>
             <p className="text-[#2f2f2f]">
             Achieved 91% in Final Capstone: (developed a full stack system for analysing space occupancy within the University) - Machine learning with YOLOv8 (PyTorch, Ultralytics), graph based analysis (NetworkX + Euclidean distance metrics) to detect groups based on proximity and relative size, generated density heatmaps (OpenCV + Gaussian kernels), structured detection outputs into Pandas DataFrames.
@@ -190,7 +190,7 @@ export default function Home() {
               La Trobe University — Bachelor of Computer Science
             </h3>
             <p className="text-xs text-[#6b6b6b] mb-2">
-              2019 – 2021 · First Class Honours
+              2020 – 2023 · First Class Honours
             </p>
             <p className="text-[#2f2f2f]">
             Coursework covered discrete mathematics, statistics, ethical hacking, functional programming, object oriented programming, machine learning, UI/UX, fullstack development and data structures and algorithms.
